@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 You can reach mr on shubhs1604@gmail.com
+- 📫 You can reach me on shubhs1604@gmail.com
 
 <!---
 Shubhs1604/Shubhs1604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
